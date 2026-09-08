@@ -1,0 +1,2 @@
+Hi, I'm Tanmay Raul.
+I am a student learning Git and GitHub to manage projects and track file changes effectively.s
